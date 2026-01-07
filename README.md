@@ -2,8 +2,6 @@
 
 My name is Niv, and I've been using a computer since I was 3 years old. Being fortunate enough to have access to a computer early in life, I found it fascinating how I was able to connect to the entire world at a click of a button. Growing up, technology has been a big part of my life, whether it was by enabling me to listen to music, supporting me in automatically tracking my workouts, or connecting me with my friends.
 
-Currently, I'm working at [Felix](https://www.felixforyou.ca/), where I'm working to empower Canadians to take control of their health and well being, from the comfort of their home. I lead the Patient Experience, which focuses on making it fast and seamless for patients to fill out a medical assessment, get a prescription, and have their medication shipped. I recently moved provinces, where I spent almost 2 years waiting to get on a waitlist for a physician and even then, I find the process of booking an appointment difficult. I want to help lower the barrier for others to lead a healthier life. I also get to work with some really talented and kind people, which is a huge plus.
-
 ### My Management Values
 
 💝 #empathy (For your clients, stakeholders, and your team)
